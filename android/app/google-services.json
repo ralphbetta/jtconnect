@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "773335799898",
+    "project_id": "jtconnect-8c2e3",
+    "storage_bucket": "jtconnect-8c2e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773335799898:android:109eeefd3d299b0711e063",
+        "android_client_info": {
+          "package_name": "com.example.jtconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773335799898-k81lfna13r9cd9905at2dc2mc903dcvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-al96lA_jEFyiwHxqBjuMXncI638KQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773335799898-k81lfna13r9cd9905at2dc2mc903dcvp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773335799898-oaipd41tp9jfq90k6gkvojk3flug5d59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jtconnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
